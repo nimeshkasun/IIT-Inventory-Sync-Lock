@@ -52,9 +52,10 @@ public class DummyProcess {
 /*
 * Run ZooKeeper Server > Open CMD/ PowerShell > Run:
 * > cd IdeaProjects\IIT-Inventory-Sync-Lock\apache-zookeeper-3.6.2-bin
-* IFS Windows > ./bin/zkServer.cmd start conf/zoo_sample.cmd
+* IFS Windows > ./bin/zkServer.cmd
 * IFS MAC > ./bin/zkServer.cmd start conf/zoo_sample.sh
 *
+* > cd IdeaProjects\IIT-Inventory-Sync-Lock
 * > java -jar target/IIT-Inventory-Sync-Lock-1.0-SNAPSHOT-jar-with-dependencies.jar lockA
 *
 * */
